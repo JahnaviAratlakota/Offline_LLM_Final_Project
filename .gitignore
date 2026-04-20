@@ -1,0 +1,15 @@
+# .gitignore
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+chats/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
